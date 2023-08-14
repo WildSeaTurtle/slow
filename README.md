@@ -3,3 +3,5 @@ and fast iterative methods. It prints the calculated Fibonacci numbers and the t
 taken for each calculation.
 
 The main method calculates and prints Fibonacci numbers using both recursive and fast iterative methods for a range of values.
+
+Calculates the Fibonacci number recursively.
