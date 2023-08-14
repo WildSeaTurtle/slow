@@ -4,4 +4,5 @@ taken for each calculation.
 
 The main method calculates and prints Fibonacci numbers using both recursive and fast iterative methods for a range of values.
 
-Calculates the Fibonacci number recursively.
+@param i The index of the Fibonacci number to calculate
+@return The calculated Fibonacci number
