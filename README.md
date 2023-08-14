@@ -11,3 +11,4 @@ Calculates the Fibonacci number using a fast iterative method.
 @param i The index of the Fibonacci number to calculate
 @return The calculated Fibonacci number
 
+new text 18 04
