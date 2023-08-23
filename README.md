@@ -13,6 +13,7 @@ Calculates the Fibonacci number using a fast iterative method.
 @param i The index of the Fibonacci number to calculate
 @return The calculated Fibonacci number
 
+<<<<<<< HEAD
 new text 13 35 16.11
 New text from Idea 16.11one more conflict 4.10 11 45
 new conflict from IDEA 17 14 10.11one more conflict 4.10 11 45
@@ -44,3 +45,10 @@ Sections for a header, navigationBasic styling using an internal <style> element
 Links within the navigation (<nav>) that anchor to different sections in the main content.
 Sections (<section>) with headings (<h2>) and paragraphs (<p>).
 A simple footer.
+new text 18 04
+New text from Idea 18 06
+new conflict from IDEA 1 15 20
+one more conflict 4.10 11 45
+new text 2 23.08
+
+new conflict 4 13:26
