@@ -15,8 +15,6 @@ new text 18 04
 
 
 
-
-
 New text from Idea 18 06
 
 
