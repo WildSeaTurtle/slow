@@ -51,9 +51,13 @@ Links within the navigation (<nav>) that anchor to different sections in the mai
 Sections (<section>) with headings (<h2>) and paragraphs (<p>).
 A simple footer.
 new text 18 04
+new text 17 14 10.11
 New text from Idea 18 06
-new conflict from IDEA 1 15 20
+new conflict from IDEA 17 14 10.11
 one more conflict 4.10 11 45
+
+30.10
+VikusM: The phrase "catch your drift" is an informal expression that means to understand or comprehend what someone is saying or suggesting, especially when their message is indirect or not explicitly stated. 
 new text 2 23.08
 
 new conflict 4 13:26
