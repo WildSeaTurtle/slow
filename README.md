@@ -11,9 +11,9 @@ Calculates the Fibonacci number using a fast iterative method.
 @param i The index of the Fibonacci number to calculate
 @return The calculated Fibonacci number
 
-new text 18 04
+new text 17 14 10.11
 New text from Idea 18 06
-new conflict from IDEA 1 15 20
+new conflict from IDEA 17 14 10.11
 one more conflict 4.10 11 45
 
 30.10
