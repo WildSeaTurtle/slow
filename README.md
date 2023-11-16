@@ -27,6 +27,10 @@ new-new conflict 5 18:50
 
 new-new conflict13%35
 
-new-new conflict 25 12:59 github
-f there are conflicts during a merge operation, Git may stop and ask you to resolve the conflicts manually. After resolving conflicts, you can
-choose to "skip" creating a new commit if you decide that the resolution doesn't merit a new commit.
+Changes made:
+
+Introduced a FibonacciFunction interface to represent the different Fibonacci calculation methods.
+Memoization added to the recursive Fibonacci function.
+Used System.nanoTime() for more precise timing.
+Improved variable names for better readability.
+Separated the calculation and printing logic for better organization.
