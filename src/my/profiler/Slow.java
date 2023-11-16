@@ -31,21 +31,3 @@ public class Slow {
         return c;
     }
 }
-
-public class FactorialExample {
-
-    public static void main(String[] args) {
-        int number = 5; // Change this to the desired number
-        long result = factorial(number);
-        System.out.println("Factorial of " + number + " = " + result);
-    }
-
-    // Recursive function to calculate factorial
-    static long factorial(int n) {
-        if (n == 0 || n == 1) {
-            return 1;
-        } else {
-            return n * factorial(n - 1);
-        }
-    }
-}
