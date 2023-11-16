@@ -28,5 +28,5 @@ new-new conflict 5 18:50
 new-new conflict13%35
 
 new-new conflict 25 12:59 github
-
-new conflict 16 13 37
+f there are conflicts during a merge operation, Git may stop and ask you to resolve the conflicts manually. After resolving conflicts, you can
+choose to "skip" creating a new commit if you decide that the resolution doesn't merit a new commit.
