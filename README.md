@@ -29,8 +29,12 @@ new-new conflict13%35
 
 Changes made:
 
-Introduced a FibonacciFunction interface to represent the different Fibonacci calculation methods.
-Memoization added to the recursive Fibonacci function.
-Used System.nanoTime() for more precise timing.
-Improved variable names for better readability.
-Separated the calculation and printing logic for better organization.
+This example includes:
+
+A standard HTML5 document structure.
+Metadata in the <head> section, including the document's character set, viewport settings, and a title.
+Basic styling using an internal <style> element.
+Sections for a header, navigation, main content, and footer.
+Links within the navigation (<nav>) that anchor to different sections in the main content.
+Sections (<section>) with headings (<h2>) and paragraphs (<p>).
+A simple footer.
