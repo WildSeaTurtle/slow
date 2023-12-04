@@ -33,7 +33,7 @@ Changes made:
 
 This example includes:
 
-A standard HTML5 document structure.
+A standard HTML5 document structure756_uryet-conflict 04/12/23 21^00
 Metadata in the <head> section, including the document's character set, viewport settings, and a title.
 Basic styling using an internal <style> element. *766d8 dhjkah 
 Sections for a header, navigationBasic styling using an internal <style> element., main content
