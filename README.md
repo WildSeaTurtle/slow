@@ -33,9 +33,7 @@ new-new conflict13%35
 
 Changes made:
 
-This example includes:
-
-A standard HTML5 document structure756_uryet-conflict 04/12/23 21^00
+This example includes: A standard HTML5 document structure/8765_the new-new-conflict
 Metadata in the <head> section, including the document's character set, viewport settings, and a title.
 Basic styling using an internal <style> element. *766d8 dhjkah 
 Sections for a header, navigationBasic styling using an internal <style> element., main content
