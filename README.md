@@ -14,8 +14,8 @@ Calculates the Fibonacci number using a fast iterative method.
 @return The calculated Fibonacci number
 
 new text 13 35 16.11
-New text from Idea 16.11
-new conflict from IDEA 17 14 10.11
+New text from Idea 16.11one more conflict 4.10 11 45
+new conflict from IDEA 17 14 10.11one more conflict 4.10 11 45
 one more conflict 4.10 11 45
 
 30.10
