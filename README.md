@@ -35,4 +35,13 @@ new-new conflict 5 18:45
 
 new-new conflict 25 12:59 github
 
-new conflict 29 18 25
+new conflict 29 18 25958588509 85838743
+
+
+
+
+
+
+
+
+Moved the Fibonacci functions (fibRecursive and fibFast) inside a nested Slow class to better organize the code.
