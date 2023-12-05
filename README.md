@@ -50,6 +50,7 @@ Basic styling using an internal <style> element. *766d8 dhjkah
 Sections for a header, navigationBasic styling using an internal <style> element., main content
 Links within the navigation (<nav>) that anchor to different sections in the main content.
 Sections (<section>) with headings (<h2>) and paragraphs (<p>).
+A simple footer.999595959
 A simple footer.
 new text 18 04
 new text 17 14 10.11
