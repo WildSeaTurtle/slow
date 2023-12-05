@@ -16,6 +16,8 @@ Calculates the Fibonacci number using a fast iterative method.
 new text 13 35 16.11
 New text from Idea 16.11one more conflict 4.10 11 45
 new conflict from IDEA 17 14 10.11one more conflict 4.10 11 45
+New text @param i The index of the Fibonacci number to calculate from Idea 16.11
+@param i The index of the Fibonacci number to calculate1
 one more conflict 4.10 11 45
 
 30.10
