@@ -41,7 +41,8 @@ f you're rebasing commits that have been pushed to a remote repository, you may 
 
 new-new conflict13%35
 one more conflict
-Changes made:
+Changes made:Improved Functionality:
+Moved the Fibonacci functions (fibRecursive and fibFast) inside a nested Slow class to better organize the code.
 
 This example includes: A standard HTML5 document structure/8765_the new-new-conflict
 Metadata in the <head> section, including the document's character set, viewport settings, and a title.
