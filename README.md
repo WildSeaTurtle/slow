@@ -16,14 +16,12 @@ new text 2 23.08
 new conflict 4 13:26
 
 new-new conflict 5 18:50
-
-new-new conflict 5 18:45
-
+f you're rebasing commits that have been pushed to a remote repository, you may need to force-push the changes:
 new-new conflict 25 12:59 github
 
 new conflict 29 18 25
 new conflict 1 15 15
-new text 18 04
+f you're rebasing commits that have been pushed to a remote repository, you may need to force-push the changes:
 New text from Idea 18 06
 new conflict from IDEA 1 15 20
 one more conflict 4.10 11 45
