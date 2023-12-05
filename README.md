@@ -32,6 +32,12 @@ conflict for 8475664
 new line 16^42
 
 new-new conflict 5 18:50
+f you're rebasing commits that have been pushed to a remote repository, you may need to force-push the changes:
+new-new conflict 25 12:59 github
+
+new conflict 29 18 25
+new conflict 1 15 15
+f you're rebasing commits that have been pushed to a remote repository, you may need to force-push the changes:
 
 new-new conflict13%35
 one more conflict
