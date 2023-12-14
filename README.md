@@ -46,7 +46,7 @@ new-new conflict13%35
 one more conflict
 Changes made:Improved Functionality:
 Moved the Fibonacci functions (fibRecursive and fibFast) inside a nested Slow class to better organize the code.
-
+resembles vs seem 98 7 f8f
 "Seems" is used to express an opinion, impression, or perception, and it's not necessarily based on a direct visual or physical similarity.
 Metadata in the <head> section, including the document's character set, viewport settings, and a title.
 Basic styling using an internal <style> element. *766d8 dhjkah 
