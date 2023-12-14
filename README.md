@@ -44,4 +44,4 @@ new conflict 29 18 25958588509 85838743
 
 
 
-Moved the Fibonacci functions (fibRecursive and fibFast) inside a nested Slow class to better organize the code.
+The situation seems complicated, but we will find a solution. For conflict
