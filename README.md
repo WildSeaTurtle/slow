@@ -1,4 +1,4 @@
-<img width="511" alt="image" src="https://github.com/ViktoriaMiroshnichenko/slow/assets/133248817/3ad5280e-b4ac-4b9b-8152-a2721cf304cf">The Slow class demonstrates the calculation of Fibonacci numbers using both recursive
+Fibonacci numbers using both recursive
 and fast iterative methods. It prints the calculated Fibonacci numbers and the time
 taken for each calculation.
 
@@ -22,13 +22,13 @@ for conflict
 @param i The index of the Fibonacci number to calculate1
 one more conflict 4.10 11 45
 
-14.12ю2023 17:02 
+15.12.2023 15:54
 for conflict
-"This resembles the description that is under the title." 
+New conflict 654 34 666  
 signify a change from one system, version, 
 or technology to another. For example, transitioning from traditional software to cloud-based solutions.
 conflict 16 43 github
-new new new new 85766679303847 jfjfjfjf
+"This resembles the description found under the heading 'another UTP.'"
 new conflict 10 4 76543 75858696979
 new changes 987 655 
 new line 16^42
