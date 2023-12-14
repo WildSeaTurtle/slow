@@ -1,4 +1,4 @@
-The Slow class demonstrates the calculation of Fibonacci numbers using both recursive
+<img width="511" alt="image" src="https://github.com/ViktoriaMiroshnichenko/slow/assets/133248817/3ad5280e-b4ac-4b9b-8152-a2721cf304cf">The Slow class demonstrates the calculation of Fibonacci numbers using both recursive
 and fast iterative methods. It prints the calculated Fibonacci numbers and the time
 taken for each calculation.
 
@@ -13,7 +13,7 @@ Calculates the Fibonacci number using a fast iterative method.
 @param i The index of the Fibonacci number to calculate
 @return The calculated Fibonacci number
 
-new text 5674940
+"Resembles" is often used when there is a visual or noticeable similarity between two things.
 New text from Idea 16.11one more conflict 4.10 11 45
 11 45 for conflict
 
