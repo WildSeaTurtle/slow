@@ -1,4 +1,4 @@
-<img width="511" alt="image" src="https://github.com/ViktoriaMiroshnichenko/slow/assets/133248817/3ad5280e-b4ac-4b9b-8152-a2721cf304cf">The Slow class demonstrates the calculation of Fibonacci numbers using both recursive
+Fibonacci numbers using both recursive
 and fast iterative methods. It prints the calculated Fibonacci numbers and the time
 taken for each calculation.
 
