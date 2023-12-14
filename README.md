@@ -24,7 +24,7 @@ one more conflict 4.10 11 45
 
 30.10
 for conflict
-In computing and technology, a transition may 
+New conflict 654 34 666  
 signify a change from one system, version, 
 or technology to another. For example, transitioning from traditional software to cloud-based solutions.
 conflict 16 43 github
