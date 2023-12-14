@@ -17,7 +17,7 @@ new text 13 35 16.11
 New text from Idea 16.11one more conflict 4.10 11 45
 11 45 for conflict
 
-16^19 uncommited changes
+16^22 uncommited changes
 for conflict
 @param i The index of the Fibonacci number to calculate1
 one more conflict 4.10 11 45
