@@ -38,8 +38,7 @@ The situation seems complicated, but we will find a solution.
 f you're rebasing commits that have been pushed to a remote repository, you may need to force-push the changes:
 new-new conflict 25 12:59 github
 
-new conflict 29 18 25
-new conflict 1 15 15
+"Resembles" is often used when there is a visual or noticeable similarity between two things.
 f you're rebasing commits that have been pushed to a remote repository, you may need to force-push the changes:
 
 new-new conflict13%35
