@@ -54,11 +54,43 @@ A simple footer.999595959
 A simple footer.
 new text 18 04
 new text 17 14 10.11
+new text 2 23.08
+
+new conflict 4 13:26
+
+conflict-conflict with dirty index
+f you're rebasing commits that have been pushed to a remote repository, you may need to force-push the changes:
+new-new conflict 25 12:59 github
+
+new conflict 29 18 25
+new conflict 1 15 15
+f you're rebasing commits that have been pushed to a remote repository, you may need to force-push the changes:
 New text from Idea 18 06
 new text 13 35 16.11
 New text from Idea 16.11
 new conflict from IDEA 17 14 10.11
 one more conflict 4.10 11 45
+new text 2 23.08
+
+new conflict 4 13:26
+
+new-new conflict 5 18:50
+
+new-new conflict 5 18:45
+
+new-new conflict 25 12:59 github
+
+new conflict 29 18 25958588509 85838743
+
+
+
+
+
+
+
+
+The situation seems complicated, but we will find a solution. For conflict
+
 
 30.10
 VikusM: The phrase "catch your drift" is an informal expression that means to understand or comprehend what someone is saying or suggesting, especially when their message is indirect or not explicitly stated. 
