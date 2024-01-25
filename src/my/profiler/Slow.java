@@ -1,9 +1,5 @@
 package my.profiler;
 
-/**
- * The Slow class calculates the Fibonacci sequence recursively and using a fast iterative approach.
- * It measures the time taken for each calculation and prints the result along with the execution time.
- */
 public class Slow {
     public static void main(String[] args) {
         for (int i = 1; i < 50; i++) {
