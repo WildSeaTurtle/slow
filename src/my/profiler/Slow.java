@@ -8,6 +8,7 @@ public class Slow {
             start = System.currentTimeMillis();
             System.out.println("Fibonacci fast      " + i + " = " + fibFast(i) + " took " + (System.currentTimeMillis() - start) + "ms");
         }
+    }
 
 
 
@@ -15,6 +16,8 @@ public class Slow {
         if (i < 2) return 1;
         return fibRecursive(i-2) + fibRecursive(i -1);
     }
+
+
 
 
     static long fibFast(long i) {
