@@ -28,3 +28,11 @@ public class Slow {
         return c;
     }
 }
+
+    private static String fibFast(int i) {
+        return null;
+    }
+
+    private static String fibRecursive(int i) {
+        return null;
+    }
